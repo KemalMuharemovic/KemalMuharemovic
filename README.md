@@ -3,9 +3,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=KemalMuharemovic.KemalMuharemovic)
 
 </p>
-<div align="center">
-<a href="https://ibb.co/0MpQnm8"><img src="https://i.ibb.co/3N5kT4G/68747470733a2f2f692e696d6775722e636f6d2f3475334c4b346a2e706e67.png" alt="68747470733a2f2f692e696d6775722e636f6d2f3475334c4b346a2e706e67" border="0"></a><br />
-</div>
+
 
 <h1 align='center'> Hello, I am Kemal Muharemovic <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
