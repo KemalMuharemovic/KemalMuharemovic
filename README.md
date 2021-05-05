@@ -8,7 +8,7 @@
 
 <h1 align='center'> Hello, I am Kemal Muharemovic <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
-<div size='20px'>A recently graduated from Sabahattin Zaim University at Istanbul. I am coming from Bosnia and my passion is Web development and Android development. Dreaming up ideas and making them come true with elegant interface is something that makes me happy. I give care to my code and trying to be all the time as best as I can. 
+<div size='20px'>A recently graduated from Sabahattin Zaim University at Istanbul. I am coming from Bosnia and my passion is Web development and Android development. Dreaming up ideas and making them come true with elegant interface is something that makes me happy. I give care to my code and trying to code it all the time as best as I can. 
 <h2 align='center'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align = 'center'>
 <a href = 'https://www.linkedin.com/in/kemal-muharemovic-64703a144'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
